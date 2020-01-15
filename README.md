@@ -1,33 +1,33 @@
 # Jiwon Han
 
-#### _Jiwon Han's Portforlio, 01/13/2020_
+#### Jiwon Han's Portforlio, 01/13/2020
 
-#### By _**Jiwon Han**_
+#### By **Jiwon Han**
 
 ## Description
 
-_This web page represents Jiwon Han's portfolio. Information about Jiwon Han and her coding experiences is included._
+This web page represents Jiwon Han's portfolio. Information about Jiwon Han and her coding experiences is included.
 
 ## Setup/Installation Requirements
 
-* _Clone this repository_.
-* _Open a html file with internet app such as Crome or Safari._
-* _Make sure CSS and Bootstrap file is inclusive._
+* Clone this repository.
+* Open a html file with internet app such as Crome or Safari.
+* Make sure CSS and Bootstrap file is inclusive.
 
 ## Known Bugs
 
-_There is no known bug._
+There is no known bug.
 
 ## Support and contact details
 
-_Please contact to Jiwon Han if you run into any issues or have questions, ideas or concerns. Contact email is jiwon1.han@gmail.com._
+Please contact to Jiwon Han if you run into any issues or have questions, ideas or concerns. Contact email is jiwon1.han@gmail.com.
 
 ## Technologies Used
 
-* _HTML_.
-* _CSS._
-* _Bootstrap_
+* HTML.
+* CSS.
+* Bootstrap.
 
 ### License
 
-Copyright (c) 2020 **_Jiwon Han_**
+Copyright (c) 2020 **Jiwon Han**
