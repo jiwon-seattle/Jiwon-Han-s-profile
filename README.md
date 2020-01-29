@@ -8,6 +8,9 @@
 
 This web page represents Jiwon Han's portfolio. Information about Jiwon Han and her coding experiences is included.
 
+## View Online
+Check out this site on GitHub Pages using https://jiwon-seattle.github.io/Jiwon-Han-s-profile
+
 ## Clone 
 Clone this repo to your local machine using https://github.com/jiwon-seattle/Jiwon-Han-s-profile.git
 
