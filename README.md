@@ -9,7 +9,7 @@
 This web page represents Jiwon Han's portfolio. Information about Jiwon Han and her coding experiences is included.
 
 ## Clone 
-Clone this repo to your local machine using https://github.com/jiwon-seattle/Jiwon-Han-s-profile
+Clone this repo to your local machine using https://github.com/jiwon-seattle/Jiwon-Han-s-profile.git
 
 ## Setup/Installation Requirements
 
